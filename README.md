@@ -17,4 +17,5 @@ dizaine de projets sur Azure DevOps.
 - **candidatures-pro**, une suite de 21 commandes qui accompagne une recherche d'emploi, en français, où chaque
   contrôle n'entre qu'avec un sabotage qui le fait échouer.
 
-Ces projets sont privés pour l'instant. Pour me joindre : [LinkedIn](https://www.linkedin.com/in/adil-rouichi).
+Ces projets sont privés pour l'instant. Mon site, avec mon CV : [wamanr.github.io](https://wamanr.github.io). Pour
+me joindre : [LinkedIn](https://www.linkedin.com/in/adil-rouichi).
